@@ -5,7 +5,7 @@ The repository contains a python notebook covering
 - Basic topics in coding with Python3
 - Helping beginners with using and coding modules with the Pandas package for data analysis on Python3
 
-These materials have been adapted from the excellent lessons created by the staff at the Research Hub of UNC-Chapel Hill's Davis Library. 
+These materials have been adapted from the excellent lessons created by the staff at the [Research Hub] (#ADD HYPERLINK) of UNC-Chapel Hill's Davis Library. 
 
 When writing your own README files remember the following guidelines 
 
