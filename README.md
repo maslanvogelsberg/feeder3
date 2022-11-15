@@ -1,4 +1,4 @@
-# feeder3
+# Feeder 3.2
 This is a repository containing instructional materials and sample datasets for Professor Gotzler's Englsih 105 section at The University of North Carolina at Chapel Hill. 
 
 The repository contains a python notebook covering basic topics in coding with Python3, and beginner modules on using the Pandas package for data analysis
