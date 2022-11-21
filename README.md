@@ -12,3 +12,4 @@ Yet this specific repository will use the data repository set to look more into 
 
 This repository was made for the people and government of the great state of North Carolina, to look into the different rates of discrepancies between counties, and to make changes according to these trends found within data. This repository may be used for research, evidence in comparison, evidence for certain political steps, etc.
 
+![image](https://user-images.githubusercontent.com/118238004/203172455-58af4a6e-dff1-42d8-8a4b-f737b67aee8f.png)
