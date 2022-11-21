@@ -1,5 +1,5 @@
 # Feeder 3.2
-This is a repository containing instructional materials and sample datasets for Professor Gotzler's Englsih 105 section at The University of North Carolina at Chapel Hill. 
+This is a repository containing instructional materials on how to examine the data Repository set *County Health Data*
 
 The repository contains a Python notebook covering 
 - Basic instructions in the coding process through the Python Coding Package *County Health Data*. 
