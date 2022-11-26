@@ -23,7 +23,7 @@ Filtering our North Carolina data into a random sample, we will look into the co
 ![image](https://user-images.githubusercontent.com/118238004/203172455-58af4a6e-dff1-42d8-8a4b-f737b67aee8f.png)
 
 ### Now, it's your turn! 
-To find our data subsets and tutorials in using Jupyter Notebook, click on the [Python_Lessons](https://library.unc.edu/data/) folder of this repository to begin! 
+To find our data subsets and tutorials in using Jupyter Notebook, click on the [Python_Lessons](https://github.com/maslanvogelsberg/feeder3/tree/main/Python_Lessons) folder of this repository to begin! 
 
 ### Acknowledgements 
 These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC-Chapel Hill's Davis Library
