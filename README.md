@@ -23,7 +23,7 @@ Filtering our North Carolina data into a random sample, we will look into the co
 ![image](https://user-images.githubusercontent.com/118238004/203172455-58af4a6e-dff1-42d8-8a4b-f737b67aee8f.png)
 
 ### Acknowledgements 
-These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](#https://library.unc.edu/data/) of UNC-Chapel Hill's Davis Library
+These materials have been adapted from the excellent lessons created by the staff at the [Research Hub] #(https://library.unc.edu/data/) of UNC-Chapel Hill's Davis Library
 
 # Need Help? 
 To address any discrepancies within the data, instructions, sources, etc., feel free to contact the owner of this repository, *Maslan Vogelsberg*, at **maslanmei@gmail.com**
