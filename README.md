@@ -28,6 +28,9 @@ View this graph in the repository [here](https://github.com/maslanvogelsberg/fee
 ### Now, it's your turn! 
 To find our data subsets and tutorials in using Jupyter Notebook, click on the [Python_Lessons](https://github.com/maslanvogelsberg/feeder3/tree/main/Python_Lessons) folder of this repository to begin! 
 
+Or to view the datasets, head over to the [Data Page](https://github.com/maslanvogelsberg/feeder3/tree/main/data)
+
+
 ### Acknowledgements 
 These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC-Chapel Hill's Davis Library
 
