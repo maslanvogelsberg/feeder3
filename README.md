@@ -1,6 +1,8 @@
 
 # Feeder 3.2
 This is a repository containing instructional materials on how to examine the data Repository set *County Health Data*. 
+### [Download the County Health Data Set as a csv](https://github.com/maslanvogelsberg/feeder3/files/10063026/CountyHealthData_2014-2015.3.csv)
+
 
 ### This repository covers 
 - Basic instructions in the coding process through the Python Coding Package *County Health Data*. 
@@ -12,8 +14,6 @@ Yet in this speific repository will use the dataset to look more into health dis
 
 ### Why are we filtering our dataset?
 Filtering our North Carolina data into a random sample, we will look into the correlation between the percent of uninsured citizens in a county and the amount of teen births. Lower rates of post-secondary education are seen by teen parents compared to teenagers who are not parents. With the usage of this data, we hope to see the state increase oppurtunities for citizen's insurance coverage and a more affordable access to family planning products such as birth control, condoms, etc. 
-
-## [Download the County Health Data Set as a csv](https://github.com/maslanvogelsberg/feeder3/files/10063026/CountyHealthData_2014-2015.3.csv)
 
 ### Uses of the dataset
 - This repository was made for the people and government of the great state of North Carolina. This data's main purpose is to show discrepancies in health practices between counties, and to make changes according to the trends found within the data. This repository may be used for research, evidence in comparison, evidence for certain political steps, etc.
