@@ -22,6 +22,9 @@ Filtering our North Carolina data into a random sample, we will look into the co
 - By comparing the percent of uninsured citizens in a North Carolina county to thier amount of teen births, we see a trend in our data. The higher the percent of uninsured citizens in a county, the higher the amount of teen births in the county. We hope this data is used in the chart to harvest change. While this data is open to the public, our main goal is to make policy changes in the North Carolina government to increase every county's health in North Carolina. Let's look our data, which was taken as a random sample (n=19) from all our 200 NC counties. 
 ![image](https://user-images.githubusercontent.com/118238004/203172455-58af4a6e-dff1-42d8-8a4b-f737b67aee8f.png)
 
+### Now, it's your turn! 
+To find our data subsets and tutorials in using Jupyter Notebook, click on the data folder of this repository to begin! 
+
 ### Acknowledgements 
 These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC-Chapel Hill's Davis Library
 
